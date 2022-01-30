@@ -1,6 +1,6 @@
 # E-Commerce: Product Range Analysis
 
-This project includes data preprocessing, EDA, visualizations, categorization, rmf categorization, dashboard and a presentation.
+This project includes data preprocessing, EDA, visualizations, categorization, rmf categorization, dashboard(in Tableau) and a presentation.
 
 
 **Task:**
